@@ -1,10 +1,10 @@
 # FIXED
 
 source/sys_pcr.obj: ../source/sys_pcr.c
-source/sys_pcr.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/sys_pcr.h
-source/sys_pcr.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/reg_pcr.h
-source/sys_pcr.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/sys_common.h
-source/sys_pcr.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/hal_stdtypes.h
+source/sys_pcr.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/sys_pcr.h
+source/sys_pcr.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_pcr.h
+source/sys_pcr.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/sys_common.h
+source/sys_pcr.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/hal_stdtypes.h
 source/sys_pcr.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/stdint.h
 source/sys_pcr.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/_stdint40.h
 source/sys_pcr.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/sys/stdint.h
@@ -16,10 +16,10 @@ source/sys_pcr.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/inclu
 source/sys_pcr.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/stdbool.h
 
 ../source/sys_pcr.c: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/sys_pcr.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/reg_pcr.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/sys_common.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/hal_stdtypes.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/sys_pcr.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_pcr.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/sys_common.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/hal_stdtypes.h: 
 C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/stdint.h: 
 C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/_stdint40.h: 
 C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/sys/stdint.h: 

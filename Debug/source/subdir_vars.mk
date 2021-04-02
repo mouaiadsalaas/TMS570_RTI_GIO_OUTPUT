@@ -16,12 +16,14 @@ ASM_SRCS += \
 ../source/sys_pmu.asm 
 
 C_SRCS += \
+../source/MCP23S17.c \
 ../source/errata_SSWF021_45.c \
 ../source/esm.c \
 ../source/gio.c \
 ../source/notification.c \
 ../source/pinmux.c \
 ../source/rti.c \
+../source/spi.c \
 ../source/sys_main.c \
 ../source/sys_pcr.c \
 ../source/sys_phantom.c \
@@ -31,12 +33,14 @@ C_SRCS += \
 ../source/system.c 
 
 C_DEPS += \
+./source/MCP23S17.d \
 ./source/errata_SSWF021_45.d \
 ./source/esm.d \
 ./source/gio.d \
 ./source/notification.d \
 ./source/pinmux.d \
 ./source/rti.d \
+./source/spi.d \
 ./source/sys_main.d \
 ./source/sys_pcr.d \
 ./source/sys_phantom.d \
@@ -46,6 +50,7 @@ C_DEPS += \
 ./source/system.d 
 
 OBJS += \
+./source/MCP23S17.obj \
 ./source/dabort.obj \
 ./source/errata_SSWF021_45.obj \
 ./source/esm.obj \
@@ -53,6 +58,7 @@ OBJS += \
 ./source/notification.obj \
 ./source/pinmux.obj \
 ./source/rti.obj \
+./source/spi.obj \
 ./source/sys_core.obj \
 ./source/sys_intvecs.obj \
 ./source/sys_main.obj \
@@ -73,6 +79,7 @@ ASM_DEPS += \
 ./source/sys_pmu.d 
 
 OBJS__QUOTED += \
+"source\MCP23S17.obj" \
 "source\dabort.obj" \
 "source\errata_SSWF021_45.obj" \
 "source\esm.obj" \
@@ -80,6 +87,7 @@ OBJS__QUOTED += \
 "source\notification.obj" \
 "source\pinmux.obj" \
 "source\rti.obj" \
+"source\spi.obj" \
 "source\sys_core.obj" \
 "source\sys_intvecs.obj" \
 "source\sys_main.obj" \
@@ -93,12 +101,14 @@ OBJS__QUOTED += \
 "source\system.obj" 
 
 C_DEPS__QUOTED += \
+"source\MCP23S17.d" \
 "source\errata_SSWF021_45.d" \
 "source\esm.d" \
 "source\gio.d" \
 "source\notification.d" \
 "source\pinmux.d" \
 "source\rti.d" \
+"source\spi.d" \
 "source\sys_main.d" \
 "source\sys_pcr.d" \
 "source\sys_phantom.d" \
@@ -114,20 +124,15 @@ ASM_DEPS__QUOTED += \
 "source\sys_mpu.d" \
 "source\sys_pmu.d" 
 
-ASM_SRCS__QUOTED += \
-"../source/dabort.asm" \
-"../source/sys_core.asm" \
-"../source/sys_intvecs.asm" \
-"../source/sys_mpu.asm" \
-"../source/sys_pmu.asm" 
-
 C_SRCS__QUOTED += \
+"../source/MCP23S17.c" \
 "../source/errata_SSWF021_45.c" \
 "../source/esm.c" \
 "../source/gio.c" \
 "../source/notification.c" \
 "../source/pinmux.c" \
 "../source/rti.c" \
+"../source/spi.c" \
 "../source/sys_main.c" \
 "../source/sys_pcr.c" \
 "../source/sys_phantom.c" \
@@ -135,5 +140,12 @@ C_SRCS__QUOTED += \
 "../source/sys_startup.c" \
 "../source/sys_vim.c" \
 "../source/system.c" 
+
+ASM_SRCS__QUOTED += \
+"../source/dabort.asm" \
+"../source/sys_core.asm" \
+"../source/sys_intvecs.asm" \
+"../source/sys_mpu.asm" \
+"../source/sys_pmu.asm" 
 
 

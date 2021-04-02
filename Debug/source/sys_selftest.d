@@ -1,10 +1,10 @@
 # FIXED
 
 source/sys_selftest.obj: ../source/sys_selftest.c
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/sys_selftest.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/reg_pbist.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/sys_common.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/hal_stdtypes.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/sys_selftest.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_pbist.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/sys_common.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/hal_stdtypes.h
 source/sys_selftest.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/stdint.h
 source/sys_selftest.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/_stdint40.h
 source/sys_selftest.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/sys/stdint.h
@@ -14,38 +14,38 @@ source/sys_selftest.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/
 source/sys_selftest.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/machine/_stdint.h
 source/sys_selftest.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/sys/_stdint.h
 source/sys_selftest.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/stdbool.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/reg_stc.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/reg_efc.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/sys_core.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/system.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/reg_system.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/reg_gio.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/reg_flash.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/reg_tcram.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/sys_vim.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/reg_vim.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/adc.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/reg_adc.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/can.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/reg_can.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/mibspi.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/reg_mibspi.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/het.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/reg_het.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_stc.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_efc.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/sys_core.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/system.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_system.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_gio.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_flash.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_tcram.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/sys_vim.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_vim.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/adc.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_adc.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/can.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_can.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/mibspi.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_mibspi.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/het.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_het.h
 source/sys_selftest.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/string.h
 source/sys_selftest.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/_ti_config.h
 source/sys_selftest.obj: C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/linkage.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/htu.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/reg_htu.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/esm.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/reg_esm.h
-source/sys_selftest.obj: C:/Users/inovar/Desktop/TMS570_RTI/include/sys_pmu.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/htu.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_htu.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/esm.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_esm.h
+source/sys_selftest.obj: C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/sys_pmu.h
 
 ../source/sys_selftest.c: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/sys_selftest.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/reg_pbist.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/sys_common.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/hal_stdtypes.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/sys_selftest.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_pbist.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/sys_common.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/hal_stdtypes.h: 
 C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/stdint.h: 
 C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/_stdint40.h: 
 C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/sys/stdint.h: 
@@ -55,29 +55,29 @@ C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/machine/_types.h:
 C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/machine/_stdint.h: 
 C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/sys/_stdint.h: 
 C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/stdbool.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/reg_stc.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/reg_efc.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/sys_core.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/system.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/reg_system.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/reg_gio.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/reg_flash.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/reg_tcram.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/sys_vim.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/reg_vim.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/adc.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/reg_adc.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/can.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/reg_can.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/mibspi.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/reg_mibspi.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/het.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/reg_het.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_stc.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_efc.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/sys_core.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/system.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_system.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_gio.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_flash.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_tcram.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/sys_vim.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_vim.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/adc.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_adc.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/can.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_can.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/mibspi.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_mibspi.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/het.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_het.h: 
 C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/string.h: 
 C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/_ti_config.h: 
 C:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/linkage.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/htu.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/reg_htu.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/esm.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/reg_esm.h: 
-C:/Users/inovar/Desktop/TMS570_RTI/include/sys_pmu.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/htu.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_htu.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/esm.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/reg_esm.h: 
+C:/Users/inovar/workspace_v9/TMS570_RTI_GIO_OUTPUT/include/sys_pmu.h: 
